@@ -1,48 +1,70 @@
 # 🧼 VXCleanse ScrollKit Pro
 
-A handcrafted system cleanser and Git Auto-Vault script paired with the FlipDeck UI Scroll Unlocker.  
-Includes `.bat` launcher and upgrade-ready structure for GUI integration.
+A handcrafted system cleanser, Git Auto-Vault utility, and FlipDeck UI Scroll Unlocker – all bundled into a lightweight `.bat` + Markdown-based scroll kit.  
+Upgrade-ready with optional GUI unlock support.
 
 ---
 
-## 💎 Features:
-- Kills bloatware and PCManager traces
-- SFC + DISM healing protocol
-- TEMP + DNS purge
-- Git-friendly scroll log vaulting
-- GUI unlock (optional upgrade)
+## 💎 Features
+
+- 🔪 Kills bloatware + PCManager traces  
+- 🛠️ Runs `SFC` + `DISM` healing protocol  
+- 🧹 Clears TEMP folders + flushes DNS  
+- 📁 Auto-vaults logs in Git-style timestamp folders  
+- 🧩 Optional FlipDeck GUI unlock system
 
 ---
+
 ## 💰 Monetization & Licensing
 
-**VXCleanse ScrollKit Pro** is a paid utility script pack available for personal use at a one-time price of **$0.99 USD**.
+> **VXCleanse ScrollKit Pro** is a **paid system script** available for personal use at a one-time price of **$0.99 USD**.
 
-### 💾 What's Included:
-- `VXINX_WAR_MODE.bat` (System Cleanser Protocol)
-- `.gitignore` Vault Lock
-- `README.md` Guide
-- Optional GUI Unlock Support (via FlipDeck UI)
+### 📦 What’s Included
 
-### 🔒 License Terms (VXCleanse Buyer License)
-- ✅ Single-user license (non-transferable)
-- 🔁 Redistribution not allowed (commercial resale prohibited)
-- 💻 Use for personal or internal dev automation only
-- 🛡️ File is protected under the **Jaglotl Creator Protocol™** by *VAXINX (Regis Lara)*
+- `VXINX_WAR_MODE.bat` (System Cleanser Protocol)  
+- `.gitignore` (Vault Lock)  
+- `README.md` (License & User Guide)  
+- Optional GUI Unlock (FlipDeck-based)
 
-> 💡 *By downloading or cloning this repo, you agree to the license terms.*
+### 🔐 VXCleanse Buyer License
 
-### 📎 Proof of Purchase / Unlock
-If this was downloaded outside GitHub (.zip, mirror, or reshare), verify your purchase via:
-- GitHub Sponsor Tag
-- Proof of $0.99 transfer to:
-  - [MetaMask](https://etherscan.io/address/0x5947712D13AaB3E6F4021Ff04F83881F778d3666)
-  - [PayPal.me/Regis9999](https://paypal.me/Regis9999)
+- ✅ **Single-user license** (non-transferable)  
+- ❌ **No redistribution or commercial resale**  
+- 🧪 **Internal or personal dev automation use only**  
+- 🛡️ Protected by the **Jaglotl Creator Protocol™** — *VAXINX (Regis Lara)*
+
+> _By downloading, cloning, or using this repo, you agree to these license terms._
 
 ---
 
-## 🧪 Need Help or Support?
-If you’re a buyer or supporter, submit a request via Issues tab or DM @regislara-byte with **unlock code request**.
+## 📎 Proof of Purchase / Unlock
 
+If this script was downloaded outside GitHub (.zip, mirror, or reshare), please verify your $0.99 purchase through:
 
-### 💰 $0.99 Fair Price • Git Launch Ready
-> Built by: **VAXINX [Regis Lara]**
+- [MetaMask](https://etherscan.io/address/0x5947712D13AaB3E6F4021Ff04F83881F778d3666)  
+- [PayPal.me/Regis9999](https://paypal.me/Regis9999)
+
+💬 Then DM or open an **Issue** tagged: `unlock code request`.
+
+---
+
+## 🧠 How to Use
+
+1. 🛡️ Run `VXINX_WAR_MODE.bat` as Administrator  
+2. ✅ Cleans your system with:
+   - `SFC` (System File Checker)
+   - `DISM` (Health Restore)
+   - `TEMP` + `DNS` purge  
+3. 🗃️ Logs auto-save to timestamped folders  
+4. 🔁 System restart prompt after success
+
+---
+
+## 🧪 Need Help?
+
+If you’re a buyer or supporter, reach out via the **GitHub Issues tab** or DM `@regislara-byte` for FlipDeck unlocks or vault upgrades.
+
+---
+
+### 💵 $0.99 Fair Launch • GitHub Clean Build  
+Built by: **VAXINX [Regis Lara]** • Powered by **Jaglotl Creator Protocol™**
