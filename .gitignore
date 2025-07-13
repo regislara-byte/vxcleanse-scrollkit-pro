@@ -1,0 +1,7 @@
+# VXCleanse scrollkit ignores
+Logs/
+*.log
+*.bak
+Thumbs.db
+*.DS_Store
+.vscode/
